@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olukay1
-- 👀 I’m interested in NLP and AI
+- 👀 I’m interested in **NLP, ML and AI**
 - 🌱 I’m currently learning Tensorflow
 - 📫 You can reach me [on linkedin](http://www.linkedin.com/in/sodiq-kayode)
 
